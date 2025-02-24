@@ -2,7 +2,7 @@
 termux-wake-lock  
 pkg update -y  
 pkg install -y git python tor root-repo  
-git clone https://github.com/yourusername/TERMUX-GHOST  
+git clone https://github.com/Veran350/TERMUX-GHOST  
 cd TERMUX-GHOST  
 chmod +x lib/*.sh  
 pip install Flask pycryptodome  
